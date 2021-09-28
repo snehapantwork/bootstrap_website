@@ -1,0 +1,22 @@
+{
+  "JSONDATA": [
+    {
+      "Id": 1001,
+      "Name": "Sneha Pant",
+      "Location": "Crawley",
+      "Salary": 90000
+    },
+    {
+      "Id": 1002,
+      "Name": "Mukesh Pant",
+      "Location": "London",
+      "Salary": 100000
+    }
+  ],
+
+  "NOOFDAYS": [
+    {
+      "number": 2
+    }
+  ]
+}
